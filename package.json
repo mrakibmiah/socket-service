@@ -1,0 +1,19 @@
+{
+  "name": "fire-push-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Avanthika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "http": "0.0.0",
+    "pm2": "^4.5.5",
+    "socket.io": "^4.0.1"
+  }
+}
